@@ -19,12 +19,14 @@ classes: hide-title tight-top
 <ul>
   <li>
     MA-level
-    <li>
-      Statistics for Economists, Boston University, Fall 2023
-    </li>
-    <li>
-      Econometric Analysis, Korea University, Spring 2020
-    </li>
+    <ul>
+      <li>
+        Statistics for Economists, Boston University, Fall 2023
+      </li>
+      <li>
+        Econometric Analysis, Korea University, Spring 2020
+      </li>
+    </ul>
   </li>
   <li>
     Undergraduate-level
