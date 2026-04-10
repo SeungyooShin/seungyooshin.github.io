@@ -19,6 +19,7 @@ classes: hide-title tight-top
     <span style="font-size:0.95em; color:#555;">
       This paper is based on my master’s thesis.
     </span>
+    <br>
     <a href="#/" style="color:black; text-decoration:underline" onclick="visib('pub1')">Abstract</a>
   </li>
 </ul>
