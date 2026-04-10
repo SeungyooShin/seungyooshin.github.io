@@ -19,21 +19,18 @@ classes: hide-title tight-top
 <ul>
   <li>
     MA-level
-    <ul>
+    <li>
       Statistics for Economists, Boston University, Fall 2023
-    </ul>
-    <ul>
+    </li>
+    <li>
       Econometric Analysis, Korea University, Spring 2020
-    </ul>
+    </li>
   </li>
   <li>
     Undergraduate-level
     <ul>
       <li>
         Empirical Economics 1, Boston University, Spring 2024, Summer 2024, Fall 2025 and Spring 2026
-      </li>
-      <li>
-        Corporate Finance, Questrom School of Business, Boston University, Fall 2022
       </li>
       <li>
         Corporate Finance, Questrom School of Business, Boston University, Fall 2022
