@@ -10,6 +10,7 @@ classes: hide-title tight-top
 <ul>
   <li>
     Empirical Economic Analysis (Undergraduate), Boston University, Summer 2025,
+    <br>
     Teaching evaluation: 4.62/5
     <a href="https://seungyooshin.github.io/assets/EC204S 2025 - Seungyoo Shin (Instructor).pdf" target="_blank" rel="noopener">Link for Evaluation</a>
   </li>
@@ -22,6 +23,9 @@ classes: hide-title tight-top
     <ul>
       <li>
         Statistics for Economists, Boston University, Fall 2023
+        <br>
+        Teaching evaluation: 4.53/5
+        <a href="https://seungyooshin.github.io/assets/EC507 F 2023 Seungyoo Shin.pdf" target="_blank" rel="noopener">Link for Evaluation</a>
       </li>
       <li>
         Econometric Analysis, Korea University, Spring 2020
