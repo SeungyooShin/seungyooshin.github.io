@@ -9,7 +9,7 @@ classes: hide-title tight-top
 <h2 id="instructor">Instructor Experience</h2>
 <ul>
   <li>
-    Empirical Economic Analysis (Undergraduate), Boston University, Summer 2025
+    Empirical Economic Analysis (Undergraduate), Boston University, Summer 2025,
     Teaching evaluation: 4.62/5
     <a href="https://seungyooshin.github.io/assets/EC204S 2025 - Seungyoo Shin (Instructor).pdf" target="_blank" rel="noopener">Link for Evaluation</a>
   </li>
