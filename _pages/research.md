@@ -16,6 +16,9 @@ classes: hide-title tight-top
     </a> (with Cheolbeom Park),
     <em>Macroeconomic Dynamics</em> (2026)
     <br>
+    <span style="font-size:0.95em; color:#555;">
+      This paper is based on my master’s thesis.
+    </span>
     <a href="#/" style="color:black; text-decoration:underline" onclick="visib('pub1')">Abstract</a>
   </li>
 </ul>
