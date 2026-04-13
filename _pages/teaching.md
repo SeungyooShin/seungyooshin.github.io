@@ -40,7 +40,7 @@ classes: hide-title tight-top
         <br>
         Teaching evaluation: Overall 4.41/5
         <a href="https://seungyooshin.github.io/assets/EC203 B1 F 2025 - Seungyoo Shin.pdf" target="_blank" rel="noopener">Fall 2025</a>
-        <a href="https://seungyooshin.github.io/assets/EC203 S1 2024 - Seungyoo Shin.pdf.pdf" target="_blank" rel="noopener">Summer 2024</a>
+        <a href="https://seungyooshin.github.io/assets/EC203 S1 2024 - Seungyoo Shin.pdf" target="_blank" rel="noopener">Summer 2024</a>
         <a href="https://seungyooshin.github.io/assets/EC203 A3 S 2024 - Seungyoo Shin.pdf" target="_blank" rel="noopener">Spring 2024</a>
       </li>
       <li>
