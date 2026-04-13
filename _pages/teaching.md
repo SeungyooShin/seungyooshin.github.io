@@ -37,6 +37,17 @@ classes: hide-title tight-top
     <ul>
       <li>
         Empirical Economics 1, Boston University, Spring 2024, Summer 2024, Fall 2025 and Spring 2026
+        <br>
+        Teaching evaluation: Overall 4.41/5
+        <a href="https://seungyooshin.github.io/assets/EC203 B1 F 2025 - Seungyoo Shin.pdf" target="_blank" rel="noopener">Fall 2025</a>
+        <a href="https://seungyooshin.github.io/assets/EC203 S1 2024 - Seungyoo Shin.pdf.pdf" target="_blank" rel="noopener">Summer 2024</a>
+        <a href="https://seungyooshin.github.io/assets/EC203 A3 S 2024 - Seungyoo Shin.pdf" target="_blank" rel="noopener">Spring 2024</a>
+      </li>
+      <li>
+        Empirical Economics 2, Boston University, Summer 2024
+        <br>
+        Teaching evaluation: 4.67/5
+        <a href="https://seungyooshin.github.io/assets/EC204 S2 2024 - Seungyoo Shin.pdf" target="_blank" rel="noopener">Link for Evaluation</a>
       </li>
       <li>
         Corporate Finance, Questrom School of Business, Boston University, Fall 2022
