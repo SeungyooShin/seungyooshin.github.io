@@ -13,7 +13,6 @@ classes: hide-title tight-top
     <br>
     Teaching evaluation: 4.62/5
     <a href="https://seungyooshin.github.io/assets/EC204S 2025 - Seungyoo Shin (Instructor).pdf" target="_blank" rel="noopener">Link for Evaluation</a>
-    <a href="https://seungyooshin.github.io/assets/CAS EC 204 - 2025 (Shin).pdf" target="_blank" rel="noopener">Syllabus</a>
   </li>
 </ul>
 
