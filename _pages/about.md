@@ -10,5 +10,5 @@ redirect_from:
 
 Welcome! My name is Seungyoo Shin, and I am a PhD candiate in Economics at Boston University.
 <p style="text-align: justify; text-justify: inter-word;">
-My research is at the intersection of macroeconomics and international trade through multinational firms.
+My research is at the intersection of macroeconomics and international trade, with a focus on multinational firms.
 </p>
