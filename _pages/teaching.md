@@ -39,7 +39,7 @@ classes: hide-title tight-top
         Empirical Economics 1, Boston University, Spring 2024, Summer 2024, Fall 2025 and Spring 2026
         <br>
         Teaching evaluation: Overall 4.46/5
-        <a href="https://seungyooshin.github.io/assets/EC203 B1 S 2026 - Seungyoo Shin.pdf" target="_blank" rel="noopener">Fall 2025</a>
+        <a href="https://seungyooshin.github.io/assets/EC203 B1 S 2026 - Seungyoo Shin.pdf" target="_blank" rel="noopener">Spring 2026</a>
         <a href="https://seungyooshin.github.io/assets/EC203 B1 F 2025 - Seungyoo Shin.pdf" target="_blank" rel="noopener">Fall 2025</a>
         <a href="https://seungyooshin.github.io/assets/EC203 S1 2024 - Seungyoo Shin.pdf" target="_blank" rel="noopener">Summer 2024</a>
         <a href="https://seungyooshin.github.io/assets/EC203 A3 S 2024 - Seungyoo Shin.pdf" target="_blank" rel="noopener">Spring 2024</a>
