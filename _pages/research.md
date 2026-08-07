@@ -40,13 +40,13 @@ classes: hide-title tight-top
 
 <ul>
   <li>
-    From Expatriate to Locals: Allocation of Managers in Multinationals 
+    When Export Tax Incentives End: Multinational Adjustment within and across Countries
   </li>
 </ul>
 
 <ul>
   <li>
-    Corporate Tax Incentives and Reallocation of Multinational Production
+    From Expatriate to Locals: Allocation of Managers in Multinationals 
   </li>
 </ul>
 
