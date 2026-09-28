@@ -71,7 +71,7 @@ classes: hide-title tight-top
 
 <ul>
   <li>
-    Host-Country Financial Developments and the Crisis Sensitivity of Foreign Affiliates (with Aruzhan Nurlankul)
+    Host-Country Financial Developments and Multinational Financing (with Aruzhan Nurlankul)
   </li>
 </ul>
 
