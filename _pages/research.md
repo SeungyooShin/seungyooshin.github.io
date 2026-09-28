@@ -39,7 +39,7 @@ classes: hide-title tight-top
 
 <ul>
   <li>
-      When Export-Contingent Tax Incentives End: Multinational Adjustment within and across Countries
+      When Export-Contingent Tax Incentives End: Multinational Adjustment within and across Countries (Job Market Paper)
   </li>
 </ul>
 
