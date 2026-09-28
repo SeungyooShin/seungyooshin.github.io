@@ -20,11 +20,11 @@ classes: hide-title tight-top
       This paper is based on my master’s thesis.
     </span>
     <br>
-    <a href="#/" style="color:black; text-decoration:underline" onclick="visib('pub1')">Abstract</a>
+    <a href="#/" style="color:black; text-decoration:underline" onclick="visib('svar')">Abstract</a>
   </li>
 </ul>
 
-<div id="pub1" style="display: none; background-color: #F1F1F1; color: #666; padding: 10px">
+<div id="svar" style="display: none; background-color: #F1F1F1; color: #666; padding: 10px">
   We examine the response of the exchange rate to monetary policy shocks using structural vector autoregression (SVAR).
   The SVAR approach in this study differs from previous studies by incorporating uncertainty measures and employing shock-restricted identification constraints.
   Using structural shocks that are in accordance with the event and external variable constraints, we demonstrate that the US exchange rate appreciates immediately
@@ -34,19 +34,43 @@ classes: hide-title tight-top
 </div>
 
 
+<hr>
+<h2 id="working-papers">Working Papers</h2>
+
+<ul>
+  <li>
+      When Export-Contingent Tax Incentives End: Multinational Adjustment within and across Countries
+  </li>
+</ul>
+
+
 
 <hr>
 <h2 id="work-in-progress">Work in Progress</h2>
 
 <ul>
   <li>
-    When Export Tax Incentives End: Multinational Adjustment within and across Countries
+    From Expatriates to Locals: Allocation of Managers in Multinationals
+    <a href="#"
+       style="color: black; text-decoration: underline;"
+       onclick="visib('manager'); return false;">
+      Abstract
+    </a>
   </li>
 </ul>
 
+<div id="manager" style="display: none; background-color: #F1F1F1; color: #666; padding: 10px; text-align: justify; margin-top: 8px;">
+  This paper investigates how multinational firms allocate managerial resources between expatriate and local managers across host countries at different levels of development.
+  Using data on Korean multinational affiliates that distinguish workers by both nationality and occupational hierarchy, I document two facts.
+  First, the productivity of local managers rises with host-country income, whereas the productivity of expatriate managers varies much less across destinations.
+  Second, affiliates entering developing economies rely disproportionately on expatriate managers, but this reliance declines with affiliate age as local managers increasingly assume managerial roles.
+  These patterns are consistent with expatriates serving as carriers of firm-specific knowledge whose role is particularly important when local managerial capabilities are initially limited.
+</div>
+
+
 <ul>
   <li>
-    From Expatriate to Locals: Allocation of Managers in Multinationals 
+    Host-Country Financial Developments and the Crisis Sensitivity of Foreign Affiliates (with Aruzhan Nurlankul)
   </li>
 </ul>
 
