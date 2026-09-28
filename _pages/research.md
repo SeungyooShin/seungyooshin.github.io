@@ -51,6 +51,7 @@ classes: hide-title tight-top
 <ul>
   <li>
     From Expatriates to Locals: Allocation of Managers in Multinationals
+    <br>
     <a href="#"
        style="color: black; text-decoration: underline;"
        onclick="visib('manager'); return false;">
