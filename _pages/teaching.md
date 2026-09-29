@@ -1,9 +1,8 @@
 ---
 layout: archive
-title: ""                      
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
-classes: hide-title tight-top  
 ---
 
 <h2 id="instructor">Instructor Experience</h2>

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -23,5 +23,5 @@ Prior to my PhD, I completed an MA in Economics and a BS in Mathematics and Fina
 </p>
 
 <p style="text-align: justify; text-justify: inter-word;">
-You can find my CV here.
+You can see my CV here.
 </p>

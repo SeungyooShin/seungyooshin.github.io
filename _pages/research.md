@@ -1,9 +1,8 @@
 ---
 layout: archive
-title: ""                      
+title: "Research"
 permalink: /research/
 author_profile: true
-classes: hide-title tight-top  
 ---
 
 
@@ -20,11 +19,11 @@ classes: hide-title tight-top
       This paper is based on my master’s thesis.
     </span>
     <br>
-    <a href="#/" style="color:black; text-decoration:underline" onclick="visib('svar')">Abstract</a>
+    <button type="button" class="abstract-toggle" aria-expanded="false" aria-controls="svar" onclick="visib(this, 'svar')">Abstract</button>
   </li>
 </ul>
 
-<div id="svar" style="display: none; background-color: #F1F1F1; color: #666; padding: 10px">
+<div id="svar" class="research-abstract" hidden>
   We examine the response of the exchange rate to monetary policy shocks using structural vector autoregression (SVAR).
   The SVAR approach in this study differs from previous studies by incorporating uncertainty measures and employing shock-restricted identification constraints.
   Using structural shocks that are in accordance with the event and external variable constraints, we demonstrate that the US exchange rate appreciates immediately
@@ -52,15 +51,11 @@ classes: hide-title tight-top
   <li>
     From Expatriates to Locals: Allocation of Managers in Multinationals
     <br>
-    <a href="#"
-       style="color: black; text-decoration: underline;"
-       onclick="visib('manager'); return false;">
-      Abstract
-    </a>
+    <button type="button" class="abstract-toggle" aria-expanded="false" aria-controls="manager" onclick="visib(this, 'manager')">Abstract</button>
   </li>
 </ul>
 
-<div id="manager" style="display: none; background-color: #F1F1F1; color: #666; padding: 10px; text-align: justify; margin-top: 8px;">
+<div id="manager" class="research-abstract" hidden>
   This paper investigates how multinational firms allocate managerial resources between expatriate and local managers across host countries at different levels of development.
   Using data on Korean multinational affiliates that distinguish workers by both nationality and occupational hierarchy, I document two facts.
   First, the productivity of local managers rises with host-country income, whereas the productivity of expatriate managers varies much less across destinations.
@@ -76,12 +71,10 @@ classes: hide-title tight-top
 </ul>
 
 <script>
-function visib(id) {
-  var x = document.getElementById(id);
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
+function visib(button, id) {
+  var panel = document.getElementById(id);
+  var expanded = button.getAttribute("aria-expanded") === "true";
+  panel.hidden = expanded;
+  button.setAttribute("aria-expanded", String(!expanded));
 }
 </script>

@@ -1,0 +1,302 @@
+/* ==========================================================================
+   CUSTOM ACADEMIC HOMEPAGE STYLES
+   Inspired by the layout of sroh722.github.io and adapted to this newer
+   Academic Pages codebase.
+   ========================================================================== */
+
+:root,
+html[data-theme="dark"] {
+  --site-bg: #f7f4ee;
+  --site-surface: #fffdf9;
+  --site-border: #d6dfd6;
+  --site-text: #22302a;
+  --site-muted: #5c6d65;
+  --site-accent: #2f5a52;
+  --site-accent-strong: #24443d;
+  --site-accent-soft: #ebf2ee;
+  --site-warm: #8b6037;
+  --site-shadow: 0 18px 36px rgba(27, 45, 39, 0.08);
+
+  /* Keep the site in the reference design's light palette. */
+  --global-base-color: var(--site-accent);
+  --global-bg-color: var(--site-bg);
+  --global-footer-bg-color: #eef1ef;
+  --global-border-color: var(--site-border);
+  --global-dark-border-color: #c5d0c9;
+  --global-code-background-color: #fafafa;
+  --global-code-text-color: var(--site-accent-strong);
+  --global-fig-caption-color: var(--site-muted);
+  --global-link-color: var(--site-accent);
+  --global-link-color-hover: var(--site-warm);
+  --global-link-color-visited: var(--site-accent);
+  --global-masthead-link-color: var(--site-text);
+  --global-masthead-link-color-hover: var(--site-accent-strong);
+  --global-text-color: var(--site-text);
+  --global-text-color-light: var(--site-muted);
+  --global-thead-color: var(--site-accent-soft);
+}
+
+body {
+  background: linear-gradient(180deg, #fbfaf7 0%, var(--site-bg) 100%);
+  color: var(--site-text);
+}
+
+a {
+  color: var(--site-accent);
+}
+
+a:hover,
+a:focus {
+  color: var(--site-warm);
+}
+
+.masthead {
+  background: rgba(251, 250, 247, 0.94);
+  border-bottom: 1px solid var(--site-border);
+  box-shadow: 0 1px 0 rgba(36, 68, 61, 0.05);
+  backdrop-filter: blur(8px);
+}
+
+.masthead__inner-wrap {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.greedy-nav,
+.masthead__menu-item {
+  background: transparent;
+}
+
+.greedy-nav a {
+  color: var(--site-text);
+}
+
+.greedy-nav a:hover,
+.greedy-nav a:focus {
+  color: var(--site-accent-strong);
+}
+
+.greedy-nav .visible-links a::before {
+  background: var(--site-accent);
+}
+
+.masthead__menu-item.selected a {
+  color: var(--site-accent-strong);
+  border-bottom-color: var(--site-accent);
+}
+
+#main {
+  margin-top: 2.25rem;
+
+  @include breakpoint($large) {
+    display: grid;
+    grid-template-columns: clamp(220px, 23vw, 260px) minmax(0, 1fr);
+    gap: clamp(2rem, 5vw, 4.5rem);
+    align-items: start;
+    max-width: 1180px;
+  }
+}
+
+@include breakpoint($large) {
+  .sidebar,
+  .sidebar.sticky {
+    position: sticky;
+    top: 5.75rem;
+    float: none;
+    width: auto;
+    min-width: 0;
+    height: auto;
+    margin: 0;
+    padding-top: 0 !important;
+    overflow: visible;
+  }
+
+  .archive,
+  .page {
+    float: none;
+    width: auto;
+    min-width: 0;
+    margin: 0;
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+
+.page__title,
+.archive__item-title,
+.author__name,
+.page__content h2,
+.page__content h3,
+.archive h2,
+.archive h3 {
+  color: var(--site-accent-strong);
+}
+
+.page__title {
+  margin-bottom: 0.8em;
+}
+
+.page__content h2 {
+  border-bottom-color: rgba(47, 90, 82, 0.18);
+}
+
+.page__content a,
+.archive a {
+  text-decoration-color: rgba(47, 90, 82, 0.35);
+  text-underline-offset: 0.14em;
+}
+
+.page__inner-wrap,
+.archive {
+  padding: 2rem;
+  background: rgba(255, 253, 249, 0.82);
+  border: 1px solid rgba(47, 90, 82, 0.08);
+  border-radius: 22px;
+  box-shadow: var(--site-shadow);
+}
+
+.author__profile {
+  display: grid;
+  grid-template-columns: clamp(104px, 28vw, 160px) minmax(0, 1fr);
+  gap: 1rem;
+  align-items: start;
+
+  @include breakpoint($large) {
+    display: block;
+  }
+}
+
+.author__avatar {
+  display: block;
+  width: 100%;
+
+  img {
+    display: block;
+    width: 100%;
+    max-width: none;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 20px;
+    box-shadow: 0 14px 30px rgba(27, 45, 39, 0.16);
+  }
+}
+
+.author__details {
+  min-width: 0;
+  padding: 0.9rem;
+  background: rgba(255, 253, 249, 0.82);
+  border: 1px solid rgba(47, 90, 82, 0.08);
+  border-radius: 16px;
+  box-shadow: 0 12px 26px rgba(27, 45, 39, 0.07);
+
+  @include breakpoint($large) {
+    margin-top: 1rem;
+    padding: 1.15rem 1.2rem;
+  }
+}
+
+.author__content,
+.author__urls-wrapper {
+  display: block;
+  width: 100%;
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.author__urls-wrapper {
+  margin-top: 0.85rem;
+}
+
+.author__name {
+  margin: 0 0 0.5rem;
+}
+
+.author__bio {
+  margin: 0;
+  color: var(--site-muted);
+  line-height: 1.55;
+}
+
+.author__urls li,
+.page__meta,
+.page__footer-follow,
+.page__footer-copyright {
+  color: var(--site-muted);
+}
+
+.btn,
+.btn:hover,
+.btn:visited {
+  border-radius: 999px;
+}
+
+.btn--inverse,
+.abstract-toggle {
+  color: #fff;
+  background-color: var(--site-accent);
+}
+
+.btn--inverse:hover,
+.btn--inverse:focus,
+.abstract-toggle:hover,
+.abstract-toggle:focus {
+  color: #fff;
+  background-color: var(--site-accent-strong);
+}
+
+.abstract-toggle {
+  display: inline-block;
+  margin-top: 0.65rem;
+  padding: 0.45rem 0.9rem;
+  font: inherit;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1;
+  border: 0;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.research-abstract {
+  margin-top: 0.8rem;
+  padding: 1rem;
+  color: var(--site-text);
+  line-height: 1.55;
+  background: rgba(235, 242, 238, 0.65);
+  border: 1px solid rgba(47, 90, 82, 0.12);
+  border-radius: 12px;
+}
+
+.page__footer {
+  background: #eef1ef;
+  border-top-color: var(--site-border);
+}
+
+@media (max-width: 900px) {
+  .page__inner-wrap,
+  .archive {
+    padding: 1.5rem;
+    border-radius: 18px;
+  }
+}
+
+@media (max-width: 600px) {
+  #main {
+    margin-top: 1.25rem;
+  }
+
+  .author__profile {
+    grid-template-columns: 88px minmax(0, 1fr);
+  }
+
+  .author__details {
+    padding: 0.75rem;
+  }
+
+  .page__inner-wrap,
+  .archive {
+    padding: 1.2rem;
+    border-radius: 16px;
+  }
+}
