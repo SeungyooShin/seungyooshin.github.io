@@ -38,7 +38,7 @@ author_profile: true
 
 <ul>
   <li>
-      When Export-Contingent Tax Incentives End: Multinational Adjustment within and across Countries (Job Market Paper)
+      Multinational Adjustment to the Withdrawal of Export-Contingent Tax Incentives (Job Market Paper)
   </li>
 </ul>
 
