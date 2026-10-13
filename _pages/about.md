@@ -15,10 +15,6 @@ My research interests are in international trade, multinational firms, and macro
 </p>
 
 <p style="text-align: justify; text-justify: inter-word;">
-I will be on the 2026-2027 job market and am available for interviews.
-</p>
-
-<p style="text-align: justify; text-justify: inter-word;">
 Prior to my PhD, I completed an MA in Economics and a BS in Mathematics and Financial Engineering at Korea University.
 </p>
 
