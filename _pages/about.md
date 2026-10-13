@@ -19,5 +19,5 @@ Prior to my PhD, I completed an MA in Economics and a BS in Mathematics and Fina
 </p>
 
 <p style="text-align: justify; text-justify: inter-word;">
-You can see my CV here.
+You can see my CV <a href="{{ '/files/Seungyoo-Shin_CV.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">here</a>.
 </p>
