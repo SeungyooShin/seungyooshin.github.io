@@ -11,7 +11,7 @@ author_profile: true
 <ul>
   <li>
     <a href="https://www.cambridge.org/core/journals/macroeconomic-dynamics/article/monetary-policy-and-exchange-rate-response-evidence-from-shockrestricted-svar-with-uncertainty-measures/9867905B9A1A2F68B8EA1CD729FFB483#article" style="text-decoration:none" target="_blank">
-      Monetary Policy and Exchange Rate: Evidence from Shock-restricted SVAR with Uncertainty Measures
+      Monetary Policy and Exchange Rate Response: Evidence from Shock-restricted SVAR with Uncertainty Measures
     </a> (with Cheolbeom Park),
     <em>Macroeconomic Dynamics</em> (2026)
     <br>
