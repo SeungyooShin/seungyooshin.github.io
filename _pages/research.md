@@ -38,9 +38,15 @@ author_profile: true
 
 <ul>
   <li>
-      Multinational Adjustment to the Withdrawal of Export-Contingent Tax Incentives (Job Market Paper)
+    <strong>Export-Contingent Tax Incentives and Multinational Activity</strong> (<em>Job Market Paper</em>)
+    <br>
+    <button type="button" class="abstract-toggle" aria-expanded="false" aria-controls="tax-incentives" onclick="visib(this, 'tax-incentives')">Abstract</button>
   </li>
 </ul>
+
+<div id="tax-incentives" class="research-abstract" hidden>
+  How do tax incentives tied to export share requirements shape the markets foreign affiliates serve and where multinationals expand? I study China’s 2008 Enterprise Income Tax reform which abolished a tax preference for firms exporting at least 70 percent of output value. Using 2004–2012 panel data on Korean manufacturing affiliates, I compare affiliates in China by their average pre-reform export intensity in a difference-in-differences design. Relative to less export-oriented affiliates, previously highly export-oriented affiliates increased local sales by approximately 82 percent. Their local sales to unaffiliated customers and participation in the local market also rose, while total sales and exports show no statistically significant differential change. These patterns are consistent with the export share requirement having limited local sales. Parents that owned highly export-oriented affiliates in China before the reform experienced an approximately 3-percentage-point larger increase in their probability of affiliate entry into Southeast Asia than other parents. These findings highlight affiliates’ market orientation and parents’ subsequent foreign entry as complementary dimensions of adjustment to investment incentives.
+</div>
 
 
 
