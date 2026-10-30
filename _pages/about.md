@@ -11,7 +11,11 @@ redirect_from:
 Welcome! My name is Seungyoo Shin, and I am a PhD candidate in Economics at Boston University.
 
 <p style="text-align: justify; text-justify: inter-word;">
-My research interests are in international trade and multinational firms. I study how host-country policies shape multinational firms' activities, with a particular focus on how firms adjust their market orientation and reorganize their networks in response to policy changes. I also study how multinational firms allocate managerial resources across countries.
+My research interests are in international trade and multinational firms. I study how host-country policies shape the markets foreign affiliates serve and where multinational firms expand. I also study how multinational firms allocate managerial resources across countries.
+</p>
+
+<p style="text-align: justify; text-justify: inter-word;">
+I am on the 2026-2027 job market and will be available for interviews.
 </p>
 
 <p style="text-align: justify; text-justify: inter-word;">
