@@ -38,7 +38,7 @@ author_profile: true
 
 <ul>
   <li>
-    <strong>Export-Contingent Tax Incentives and Multinational Activity</strong> (<em>Job Market Paper</em>)
+    Export-Contingent Tax Incentives and Multinational Activity (<em>Job Market Paper</em>)
     <br>
     <button type="button" class="abstract-toggle" aria-expanded="false" aria-controls="tax-incentives" onclick="visib(this, 'tax-incentives')">Abstract</button>
   </li>
