@@ -38,7 +38,7 @@ author_profile: true
 
 <ul>
   <li>
-    Export-Contingent Tax Incentives and Multinational Activity (<em>Job Market Paper</em>)
+    <a href="{{ '/files/Shin_JMP_20261030.pdf' | relative_url }}" style="text-decoration:none" target="_blank" rel="noopener noreferrer">Export-Contingent Tax Incentives and Multinational Activity</a> (<em>Job Market Paper</em>)
     <br>
     <button type="button" class="abstract-toggle" aria-expanded="false" aria-controls="tax-incentives" onclick="visib(this, 'tax-incentives')">Abstract</button>
   </li>
