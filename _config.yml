@@ -29,6 +29,7 @@ author:
   bio              : "Economics PhD Candidate <br/> Boston University"
   location         : "Boston, MA"
   employer         : "Boston University"
+  employer_url     : "https://www.bu.edu/econ/"
   uri              : # URL
   email            : "shinsy@bu.edu" 
 
