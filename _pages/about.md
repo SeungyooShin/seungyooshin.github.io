@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "About"
+seo_title: "Seungyoo Shin"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
